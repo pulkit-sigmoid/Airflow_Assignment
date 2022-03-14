@@ -1,0 +1,11 @@
+State,Description,Temperature,Feels_Like_Temperature,Min_Temperature,Max_Temperature,Humidity,Clouds
+Andhra Pradesh,broken clouds,73.65,72.7,73.65,73.65,42,61
+Arunachal Pradesh,clear sky,64.22,62.74,64.22,64.22,51,8
+Assam,clear sky,74.52,73.13,74.52,74.52,31,2
+Biharia,clear sky,49.98,49.28,48.11,51.91,26,0
+Chandigarh,clear sky,75.24,74.39,75.24,75.24,41,2
+Chhattisgarh,clear sky,81.03,78.93,81.03,81.03,12,3
+Delhi,mist,77.09,78.4,77.09,83.3,83,0
+Goa,scattered clouds,82.78,88.2,82.78,82.78,71,47
+Gujarat,clear sky,84.96,82.42,84.96,84.96,26,2
+Haryana,clear sky,81.54,79.83,81.54,81.54,25,0
